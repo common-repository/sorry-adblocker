@@ -1,0 +1,24 @@
+msgid "Sorry, AdBlocker Setting"
+msgstr "Sorry, AdBlocker設定"
+
+msgid "Message title"
+msgstr "メッセージタイトル"
+
+msgid "Display message"
+msgstr "メッセージ本文"
+
+msgid "Select valid detections"
+msgstr "有効にする機能"
+
+msgid "Sample message code"
+msgstr "サンプルメッセージコード"
+
+msgid "Template code"
+msgstr "テンプレートコード"
+
+msgid "previous posts URL"
+msgstr "一つ前の記事のURL"
+
+msgid "previous posts title"
+msgstr "一つ前の記事のタイトル"
+
